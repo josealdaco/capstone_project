@@ -1,0 +1,44 @@
+.navbar-custom{
+	background-color: green;
+}
+body{
+	background-color: black;
+}
+h2{
+	color: white;
+}
+p{
+	color: white;
+}
+border{
+	border: 5px solid white;
+}
+a{
+	color: white;
+}
+a:hover{ /* Deleting the blue hover affect*/
+	color: white;
+}
+.fill { 
+    min-height: 50%;
+    height: 50%;
+	background-color: #3498db;
+}
+.fill2 { 
+    min-height: 50%;
+    height: 50%;
+	background-color: #ecf0f1;
+}
+.fill2 { 
+    min-height: 50%;
+    height: 50%;
+	background-color: black;
+}
+h1{
+	color: orange;
+}
+.div-center{
+position: relative;
+top: 50%;
+transform: translateY(-50%);
+}
